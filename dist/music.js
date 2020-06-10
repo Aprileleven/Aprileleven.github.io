@@ -10,7 +10,16 @@ const ap = new APlayer({
   loop: 'all',
  // lrcType: 1,
   // volume: 0.7, //默认音量
-  audio: [{
+  audio: [
+{ 
+      theme: 'black',
+      name: "Young And Beautiful",
+      artist: 'Lana Del Rey',
+      url: 'https://music.163.com/song/media/outer/url?id=26243686',
+      cover: 'https://dss0.bdstatic.com/6Ox1bjeh1BF3odCf/it/u=810461753,2798397724&fm=85&app=63&f=GIF?w=121&h=75&s=AA8FA04CB2FBD27ECE4E86970300908B',
+      // theme: '#fff' //进度条颜色
+    },
+{
 	  theme: '#aa0000',
       name: "我曾这样寂寞生活",
       artist: '饭碗的彼岸',
@@ -54,7 +63,7 @@ const ap = new APlayer({
       name: "i hate u,i love u",
       artist: 'gnash',
       url: 'https://music.163.com/song/media/outer/url?id=461544161',
-      cover: 'http://p2.music.126.net/4KDBaQXnQywQovmqvjx-8Q==/109951164444131697.jpg?param=130y130',
+      cover: 'https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3070788624,3879931903&fm=26&gp=0.jpg',
       // theme: '#fff' //进度条颜色
     }
 
