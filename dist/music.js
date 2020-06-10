@@ -21,6 +21,14 @@ const ap = new APlayer({
     },
 {
 	  theme: '#aa0000',
+      name: "Love Is Gone (feat. Dylan Matthew) (Acoustic)",
+      artist: 'SLANDER / Dylan Matthew',
+      url: 'https://music.163.com/song/media/outer/url?id=1401671455',
+      cover: 'https://dss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1730994325,3017991472&fm=26&gp=0.jpg',
+      // theme: '#fff' //进度条颜色
+    },
+{
+	  theme: '#aa0000',
       name: "我曾这样寂寞生活",
       artist: '饭碗的彼岸',
       url: 'https://music.163.com/song/media/outer/url?id=1364400123',
