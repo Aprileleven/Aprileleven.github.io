@@ -296,6 +296,7 @@ header .nav-transparent {
 
 header nav .brand-span {
     font-size: 1.45rem;
+	font-family: 楷体;
 }
 
 header .brand-logo .logo-img {
@@ -303,9 +304,11 @@ header .brand-logo .logo-img {
     vertical-align: middle;
     padding-bottom: 6px;
 }
-
+/* 网站名字字体颜色 */
 header .brand-logo .logo-span {
     font-size: 2rem;
+	font-family: 楷体;
+	color:#FF5722
 }
 
 /*修改顶部 logo 的文字垂直对齐为 top，避免默认 middle 看起来偏下*/
@@ -340,6 +343,7 @@ header .side-nav .mobile-head .logo-desc {
     font-size: 0.8rem;
     line-height: 1.3rem;
     color: #e3e3e3;
+	font-family: 楷体;
 }
 
 header .side-nav .menu-list li {
@@ -823,7 +827,7 @@ header .go-back i {
 }
 
 .recommend .post-card a {
-    color: #fff;
+    color: #ff0000;
 }
 
 .recommend .post-card .post-title {
